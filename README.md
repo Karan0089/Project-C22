@@ -1,2 +1,2 @@
-# Project-C22
-test of ball bounciness on the ground
+# staticSquare
+A static square made using Matter.js physics engine
